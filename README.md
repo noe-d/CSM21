@@ -35,10 +35,10 @@ The main results and visualizations are also provided in two folders.
 
 Interactive `html` figures are provided for deeper explorations.
 
-- `data_filtered.html` map of the number of tweets for selected departments
-- `hashtags_count.html` map of the count of hashtags for selected depatments
-- `finalMap.html` final visualization associating word-cloud to each of the studied departments
-- `Louvain.html` hashtags network with nodes colored according to their Louvain community (topic)
+- `data_filtered.html` map of the number of tweets for selected departments: [preview here](https://raw.githack.com/noe-d/CSM21/main/html_figures/data_filtered.html)
+- `hashtags_count.html` map of the count of hashtags for selected depatments: [preview here](https://raw.githack.com/noe-d/CSM21/main/html_figures/hashtags_count.html)
+- `finalMap.html` final visualization associating word-cloud to each of the studied departments: [preview here](https://raw.githack.com/noe-d/CSM21/main/html_figures/finalMap.html)
+- `Louvain.html` hashtags network with nodes colored according to their Louvain community (topic): [preview here](https://raw.githack.com/noe-d/CSM21/main/html_figures/Louvain.html)
 
 #### `topics_results`
 
