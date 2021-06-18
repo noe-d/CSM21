@@ -33,12 +33,16 @@ The main results and visualizations are also provided in two folders.
 
 #### `html_figures`
 
+Interactive `html` figures are provided for deeper explorations.
+
 - `data_filtered.html` map of the number of tweets for selected departments
 - `hashtags_count.html` map of the count of hashtags for selected depatments
 - `finalMap.html` final visualization associating word-cloud to each of the studied departments
 - `Louvain.html` hashtags network with nodes colored according to their Louvain community (topic)
 
 #### `topics_results`
+
+`csv` files of the found topics can be found under:
 
 - `df_lda_short.csv` topics found with the LDA, with the 10-topwords 
 - `df_lglda_short.csv` topics found with the LGLDA, with the 10-topwords
